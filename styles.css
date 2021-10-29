@@ -147,7 +147,7 @@ top: -4px;
 }
 
 form input:focus{
-    border: 4px dashed #red;
+    border: 4px dashed red;
 }
 
 form input:valid{
